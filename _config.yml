@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Site Title"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Inked Code"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Inked Code"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : inkedcode
   gitlab           :
   google_plus      :
   keybase          :
@@ -101,7 +101,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : inkedcode
   vine             :
   weibo            :
   xing             :
